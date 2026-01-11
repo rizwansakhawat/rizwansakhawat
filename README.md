@@ -1,4 +1,4 @@
-# Hi, I'm @rizwansakhawat
+# Hi, I'm M.Rizwan
 
 ## 💻 About Me
 - 🐍 **Python Developer** specializing in backend web development
