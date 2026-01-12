@@ -4,7 +4,7 @@
 - 🐍 **Python Developer** specializing in backend web development
 - 🌐 **Django Framework** expert
 - 🔧 Backend Web Developer with a passion for building robust applications
-- 🎓 Computer Science Student working on my Final Year Project
+- 🎓 software engineering Student working on my Final Year Project
 
 ## 🚀 Current Project (FYP)
 ### **AIoT-Based Smart Attendance and Door Lock System using Face Recognition**
