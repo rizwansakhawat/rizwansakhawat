@@ -60,9 +60,4 @@ Banking management system
 - GitHub: [@rizwansakhawat](https://github.com/rizwansakhawat)
 
 ## ⚡ Fun fact
-Currently building my FYP - an intelligent system that bridges AI and IoT for smart attendance and security!  
-
----
-<! ---
-rizwansakhawat/rizwansakhawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+Currently building my FYP - an intelligent system that bridges AI and IoT for smart attendance and security! 
