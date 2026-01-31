@@ -7,7 +7,7 @@
 - 🎓 software engineering Student working on my Final Year Project
 
 ## 🚀 Current Project (FYP)
-### **AIoT-Based Smart Attendance and Door Lock System using Face Recognition**
+### [AIoT-Based Smart Attendance and Door Lock System using Face Recognition](https://github.com/rizwansakhawat/aiot-smart-attendance-door-lock).
 - 🤖 Combining Artificial Intelligence and IoT technologies
 - 👤 Implementing facial recognition for automated attendance tracking
 - 🔐 Smart door lock integration with Django backend
