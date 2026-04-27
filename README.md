@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 - 🐍 **Python Developer** specializing in backend web development
-- 🌐 **Django Framework** expert
+- 🌐 **Django Framework & Django REST framework(DRF)** expert
 - 🔧 Backend Web Developer with a passion for building robust applications
 - 🎓 software engineering Student working on my Final Year Project
 
@@ -51,6 +51,7 @@ Banking management system
 
 ## 💞️ I'm looking to collaborate on
 - Django web applications
+- Django REST framework 
 - AIoT projects
 - Backend development projects
 - E-commerce platforms
