@@ -38,15 +38,15 @@ Task management application
 
 ### 4.[AuraFit Pro — AI Gym posture detection](https://github.com/rizwansakhawat/gym_posture_detection_project)
 
-• Built a full-stack AI-powered fitness web application using Django, Django Channels, and WebSocket for
+- Built a full-stack AI-powered fitness web application using Django, Django Channels, and WebSocket for
 real-time communication.
-• Integrated MediaPipe pose estimation to detect and count reps for 7 exercises (Jumping Jacks, Lunges,
+- Integrated MediaPipe pose estimation to detect and count reps for 7 exercises (Jumping Jacks, Lunges,
 Push Ups, Squats, Bicep Curls, Shoulder Press, Sit Ups) with live form feedback.
-• Implemented real-time camera streaming — browser sends frames to server, server runs pose detection
+- Implemented real-time camera streaming — browser sends frames to server, server runs pose detection
 and returns annotated frames with rep count and efficiency score.
-• Designed rest timer logic between sets, workout session tracking, and user records stored in database
+- Designed rest timer logic between sets, workout session tracking, and user records stored in database
 with full history dashboard.
-• Built professional dark-themed UI with Bootstrap 5, Chart.js analytics, user authentication, and profile
+- Built professional dark-themed UI with Bootstrap 5, Chart.js analytics, user authentication, and profile
 management with BMI calculato
 
 ### 5. [Bank Account System](https://github.com/rizwansakhawat/A2)
